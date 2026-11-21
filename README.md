@@ -79,17 +79,17 @@ I am an AI & Data Science undergraduate interested in **Artificial Intelligence,
 ### 🛡️ AI-Based Smart Surveillance System
 Real-time object detection with Telegram alerts that include detection images.
 **Tech:** `Python` `YOLOv8` `OpenCV` `Telegram Bot API`
-**Repository:** _coming soon_
+
 
 ### 📄 AI-Based Candidate Document Verification System
 Document OCR, information extraction, fuzzy matching, scheduled email monitoring and CSV reports.
 **Tech:** `Python` `EasyOCR` `OpenCV` `PDFPlumber` `RapidFuzz` `Gmail IMAP`
-**Repository:** _coming soon_
+
 
 ### 🤖 Intelligent Line Following & Obstacle Avoidance Robot
 Autonomous line following with ultrasonic obstacle detection and avoidance.
 **Tech:** `Arduino Uno` `IR Sensors` `HC-SR04` `SG90 Servo` `L298N`
-**Repository:** _coming soon_
+
 
 ---
 
